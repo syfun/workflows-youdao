@@ -1,4 +1,6 @@
-# kaiye/workflows-youdao
+# syfun/workflows-youdao
+
+> 修改workflow版本不对的BUG
 
 使用方法，选中需要翻译的文本，按两下 `command` 键即可。选中结果后，配合以下功能键可实现不同功能：
 
