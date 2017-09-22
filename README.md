@@ -12,7 +12,7 @@
 
 ## 安装
 
-### 1、[点击下载](https://github.com/kaiye/workflows-youdao/blob/master/youdao.alfredworkflow?raw=true)
+### 1、[点击下载](https://github.com/syfun/workflows-youdao/blob/master/youdao.alfredworkflow?raw=true)
 
 ### 2、安装后设置双击快捷键
 
